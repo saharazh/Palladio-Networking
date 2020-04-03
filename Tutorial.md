@@ -1,6 +1,6 @@
 ---
 layout: default
-title: For networking analysis- node size caveat
+title: The Node Size Caveat
 nav_order: 4
 ---
 

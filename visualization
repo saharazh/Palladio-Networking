@@ -1,8 +1,10 @@
+
 ---
 layout: default
-title: For networking analysis- node size caveat
-nav_order: 2
+title: Visualization
+nav_order: 3
 ---
+
 **The visualization produced by Palladio** ![](http://blogs.ubc.ca/szhang/files/2018/08/palladio-animated.gif) 
 This graph was born out of my interest in studying at the granular level of _village_, which I believe served as a closely-knit clan 
 or social unit, to examine migration patterns. Each number represents an origin village in China where immigrants were from, while 

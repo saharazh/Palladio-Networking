@@ -15,4 +15,4 @@ Isn’t this wonderful?
 
 And what’s most thrilling is, a cluster of villages jumped out to me: these villages show similar migration patterns, they are connected to a relatively large number of destinations, and sent relatively more immigrants - **could they be geographically close**? 
 
-![what emerged](https://github.com/saharazh/Palladio-Networking/blob/master/images/popped%20up%20cluster.png)
+![](https://github.com/saharazh/Palladio-Networking/blob/master/images/popped%20up%20cluster.png)

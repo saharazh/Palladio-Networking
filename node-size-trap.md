@@ -25,6 +25,7 @@ To this point, if you have used Gephi or another network analysis tool, you may 
 To illustrate this point, let’s look at these two graphs below. 
 
 This is a street tree map for a few blocks in Vancouver, on which each dot is a tree (aligning with the individual rows/records in the raw data), with the color shade responding to the tree’s height and the size to diameter. 
+![street tree maps somewhere in Vancouver](https://github.com/saharazh/Palladio-Networking/blob/master/images/street%20trees.png)
 
 By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). 
 

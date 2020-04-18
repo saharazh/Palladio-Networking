@@ -20,7 +20,7 @@ Now let's put a spotlight on Destination 3: it is only connected to one village 
 
 Let’s first take a destination node as an example to see how we can apply the equation: n= how many villages the destination is connected to (how many lines a destination is connected to) Ai= the number of immigrants each village sent So what this equation computes is the sum of the immigrants that each village sent which is connected to this destination. Now it’s clear that a node size equals the total number of immigrants that the corresponding destination received, or if we speak in the statistical language, the node size corresponds to the **frequency** of this destination! I find it fascinating to build a mental linkage between the network visualization and the statistics based off on the same data. 
 
-To this point, if you have used Gephi or another network analysis tool, you may find it ridiculous to go through all the trouble of playing with dumb numbers just to find the meaning of the node size- it may have been clear to you all along. For a beginner to network analysis however, this may not be true. I’ll admit that I jumped into using Palladio without knowing much about network analysis theories. And later I realized that unlike mapping a point that comes with coordinates, you can choose to visualize a node by **any attribute**. And usually in network analysis, the weighted node size will default to represent the number of entities of the attribute.  In other words, while a point on a map and a node in a network appear to be the same (why, they are all just dots!), they are in fact rather different in terms of what a point represents.
+To this point, if you have used Gephi or another network analysis tool, you may find it ridiculous to go through all the trouble of playing with dumb numbers just to find the meaning of the node size- it may have been clear to you all along. For a beginner to network analysis, however, this may not be true. I’ll admit that I jumped into using Palladio without knowing much about network analysis theories. And later I realized that unlike mapping a point that comes with coordinates, you can choose to visualize a node by **any attribute**. And usually in network analysis, the weighted node size will default to represent the number of entities of the attribute.  In other words, while a point on a map and a node in a network appear to be the same (why, they are all just dots!), they are in fact rather different in terms of what a point represents.
  
 To illustrate this point, let’s look at these two graphs below. 
 
@@ -30,9 +30,13 @@ This is a street tree map for a few blocks in Vancouver, on which each dot is a 
 
 By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). 
 
+<img src="https://github.com/saharazh/Palladio-Networking/blob/master/images/nodes%20in%20network.png" height="300px" width="700px" >
+
 Now I believe we’ve gained ultimate clarity about the node size. But I wonder what caused my confusion in the first place. If we get back to the fact that in Network analysis tools, the weighted node size will typically default to represent the number of entities of the attribute, why did I miss that?  I went back to check the “Size Node” button- beneath it is the “According to” option, which says “Number of Untitled”. Okay, this term sounds really confusing, but maybe it’s because I didn’t name the data table (not the project name)?
+<img src="https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20untitled.png" height="300px" width="700px" >
+
 
 So I went ahead and named the untitled data table to “Chinese Immigrants” which reflects the nature of the records, downloaded the project as a .json file and reuploaded the project- it worked!  I guess this can somewhat help understanding of what the node size implies. 
-
+<img src="https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20chinese%20immigrants.png" height="300px" width="700px" >
 
 

@@ -33,10 +33,12 @@ By comparison, for the graph spit out by Palladio, each dot is a village or a de
 ![node in network](https://github.com/saharazh/Palladio-Networking/blob/master/images/nodes%20in%20network.png)
 
 Now I believe we’ve gained ultimate clarity about the node size. But I wonder what caused my confusion in the first place. If we get back to the fact that in Network analysis tools, the weighted node size will typically default to represent the number of entities of the attribute, why did I miss that?  I went back to check the “Size Node” button- beneath it is the “According to” option, which says “Number of Untitled”. Okay, this term sounds really confusing, but maybe it’s because I didn’t name the data table (not the project name)?
-<img src="https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20untitled.png" height="300px" width="700px" >
+
+![number by untitled](https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20untitled.png)
 
 
 So I went ahead and named the untitled data table to “Chinese Immigrants” which reflects the nature of the records, downloaded the project as a .json file and reuploaded the project- it worked!  I guess this can somewhat help understanding of what the node size implies. 
-<img src="https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20chinese%20immigrants.png" height="300px" width="700px" >
+
+![number by table name](https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20chinese%20immigrants.png)
 
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Visualization
+nav_order: 5
+---
+
 ## What’s emerged from the graph
 
 Now that the meaning of node size is sorted out, if we take a step back, we’ll be able to take a bird-view of the graph; it tells us very rich information on a few aspects, all at one glance: 

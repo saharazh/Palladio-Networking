@@ -4,7 +4,7 @@ title: Final Thoughts & Resources
 nav_order: 6
 ---
 
-### Final thoughts and resources 
+### Final thoughts 
  
 Given a very low bar to learning Palladio, it would be a perfect tool to give it a try and possibly enter the sphere of network analysis. However, there are lurking risks beneath rashly diving into the water, harvesting a fantastic-looking visualization without critically thinking about the rationale behind the tool. As Emmanuelle Chaze elaborated on her blog, she witnessed many researchers were motivated by this recurring impulsion “I have my data, but I’m no IT specialist, how can I quickly visualize my networks?”, but many humanists willing to use digital tools remain reluctant to learn about their proper use first.
  
@@ -15,7 +15,7 @@ Admittedly, if you are a network analysis guru, this post may seem too rambling,
 Also, I hope contextualizing the exploration of Palladio within an intellectual inquiry to the historical migration patterns--what drove the inquiry and what emerged from the data as a result of the deep engagement of the visualization- would be inspiring.  And lastly, it’s my earnest hope to raise awareness around the Chinese Head Tax data as well as that history of discrimination and exclusion, at this unprecedented time (note: this site was launched during the COVID-19 pandemic of 2020). 
  
 
-More Resources: 
+### More Resources
 
 [Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949](https://osf.io/9zr6f/)
 Should you be interested in other work my colleague Allan Cho and I did for this Chinese Head Tax project, I invite you to take a look at this OSF project.

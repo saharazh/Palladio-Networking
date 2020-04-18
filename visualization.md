@@ -32,7 +32,7 @@ And boom! We’ve got the visualization:
 
 An initial interpretation of the graph: 
 
-Each number represents an origin village in China where immigrants were from, while the immigrants’ destinations are spelled (with darker shade). Wherever a village node is connected to a destination node (speaking of network jargon, this is an “edge”), it means there were immigrants originating from the village in China who chose that destination in Canada.
-If you feel confused over these jargons, such as node and edge, you may take a quick look at this guide for the basic concepts of network analysis. 
+Each number represents an origin village in China where immigrants were from, while the immigrants’ destinations are spelled (with darker shade). Wherever a village node is connected to a destination node (speaking of network jargon, this is an “**edge**”), it means there were immigrants originating from the village in China who chose that destination in Canada.
+If you feel confused over these jargons, such as **node** and **edge**, you may take a quick look at this [guide](https://ubc-library-rc.github.io/gephi-palladio/content/04_definitions.html) for the basic concepts of network analysis. 
 
 Now here comes the more interesting part- let’s try to dig deeper into the graph. 

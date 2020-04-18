@@ -11,21 +11,21 @@ The normalization of village names opens up the opportunity to explore the migra
 
 To that end, I followed a few steps to produce a networkshop visualization using Palladio:
 
-1.Filter the original data to one county ( I used Zhongshan as an example) 
+&nbsp;&nbsp;&nbsp;&nbsp;1.Filter the original data to one county ( I used Zhongshan as an example) 
 
-2.Go to Palladio, click on Start, and then “Create a new project” from the left
+&nbsp;&nbsp;&nbsp;&nbsp;2.Go to Palladio, click on Start, and then “Create a new project” from the left
 
-3.Drag and drop the csv file to the middle box, and click on upload 
+&nbsp;&nbsp;&nbsp;&nbsp;3.Drag and drop the csv file to the middle box, and click on upload 
 
-4.Check if the types of the variables have been recognized correctly
+&nbsp;&nbsp;&nbsp;&nbsp;4.Check if the types of the variables have been recognized correctly
 
-5.Click on the tab “Graph”
+&nbsp;&nbsp;&nbsp;&nbsp;5.Click on the tab “Graph”
 
-6.Choose the variable “MatchCH_ID” (which is the normalized villages of the immigrants’ origin) as “Source”, and “New_Dest” (which is the immigrants’ destinations in Canada) as “Target”
+&nbsp;&nbsp;&nbsp;&nbsp;6.Choose the variable “MatchCH_ID” (which is the normalized villages of the immigrants’ origin) as “Source”, and “New_Dest” (which is the immigrants’ destinations in Canada) as “Target”
 
-7.Check the box “Highlight” so that source and target nodes will be differentiated by two different shades
+&nbsp;&nbsp;&nbsp;&nbsp;7.Check the box “Highlight” so that source and target nodes will be differentiated by two different shades
 
-8.Check the box “Size nodes”
+&nbsp;&nbsp;&nbsp;&nbsp;8.Check the box “Size nodes”
 
 And boom! We’ve got the visualization: 
 ![](http://blogs.ubc.ca/szhang/files/2018/08/palladio-animated.gif) 

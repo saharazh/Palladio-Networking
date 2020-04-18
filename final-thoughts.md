@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Visualization
+title: Final Thoughts & Resources
 nav_order: 6
 ---
 
@@ -17,10 +17,13 @@ Also, I hope contextualizing the exploration of Palladio within an intellectual 
 
 More Resources: 
 
-Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949
+[Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949](https://osf.io/9zr6f/)
 Should you be interested in other work my colleague Allan Cho and I did for this Chinese Head Tax project, I invite you to take a look at this OSF project.
 
-From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources by Marten Düring on Programming Historian, which focused on extracting “network-like” data from textual sources 
- Getting Started with Palladio by Miriam Posner, a great and clear introduction to Palladio functions 
+[From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical(https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)
+
+by Marten Düring on Programming Historian, which focused on extracting “network-like” data from textual sources 
  
-Network Analysis and Visualization a workshop by UBC Research Commons, a quick overview of network analysis concepts and a comparison between Palladio and Gephi
+[Getting Started with Palladio](http://miriamposner.com/blog/getting-started-with-palladio/) by Miriam Posner, a great and clear introduction to Palladio functions 
+ 
+[Network Analysis and Visualization a workshop](https://ubc-library-rc.github.io/gephi-palladio/) by UBC Research Commons, a quick overview of network analysis concepts and a comparison between Palladio and Gephi

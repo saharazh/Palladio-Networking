@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visualization
+nav_order: 6
+---
 
 ### Final thoughts and resources 
  
@@ -14,7 +19,6 @@ More Resources:
 
 Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949
 Should you be interested in other work my colleague Allan Cho and I did for this Chinese Head Tax project, I invite you to take a look at this OSF project.
-
 
 From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources by Marten Düring on Programming Historian, which focused on extracting “network-like” data from textual sources 
  Getting Started with Palladio by Miriam Posner, a great and clear introduction to Palladio functions 

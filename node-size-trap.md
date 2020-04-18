@@ -24,6 +24,13 @@ To this point, if you have used Gephi or another network analysis tool, you may 
  
 To illustrate this point, let’s look at these two graphs below. 
 
+This is a street tree map for a few blocks in Vancouver, on which each dot is a tree (aligning with the individual rows/records in the raw data), with the color shade responding to the tree’s height and the size to diameter. 
+
+By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). 
+
+Now I believe we’ve gained ultimate clarity about the node size. But I wonder what caused my confusion in the first place. If we get back to the fact that in Network analysis tools, the weighted node size will typically default to represent the number of entities of the attribute, why did I miss that?  I went back to check the “Size Node” button- beneath it is the “According to” option, which says “Number of Untitled”. Okay, this term sounds really confusing, but maybe it’s because I didn’t name the data table (not the project name)?
+
+So I went ahead and named the untitled data table to “Chinese Immigrants” which reflects the nature of the records, downloaded the project as a .json file and reuploaded the project- it worked!  I guess this can somewhat help understanding of what the node size implies. 
 
 
 

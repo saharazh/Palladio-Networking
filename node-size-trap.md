@@ -35,6 +35,7 @@ By comparison, for the graph spit out by Palladio, each dot is a village or a de
 
 ![node in network](https://user-images.githubusercontent.com/40467487/79700374-04539a00-824a-11ea-9c9c-a7280b27f4ef.png)
 
+
 ### What caused the confusion in the first place?
 Now I believe we’ve gained ultimate clarity about the node size. But I wonder what caused my confusion in the first place. If we get back to the fact that in Network analysis tools, the weighted node size will typically default to represent the number of entities of the attribute, why did I miss that?  I went back to check the “Size Node” button- beneath it is the “According to” option, which says “Number of Untitled”. Okay, this term sounds really confusing, but maybe it’s because I didn’t name the data table (not the project name)?
 

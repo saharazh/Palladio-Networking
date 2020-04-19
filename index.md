@@ -11,4 +11,6 @@ I used [Palladio](http://hdlab.stanford.edu/palladio/), a tool for exploring hum
 
 Well, it turned out, there’s some hidden gold mine that hasn’t been discovered!
 
-While Palladio seems to be a really easy-to-use tool, I found myself, when I drilled in the visualization based off of the data, perplexed at some deceptively obvious characteristics of the graph, such as the nodes’ size and the connections, and their relationships. Once I tackled these puzzles, I got an entirely new understanding of the graph, which interestingly led to more research questions that can be asked of the graph.
+While Palladio seems to be a really easy-to-use tool, I found myself, when I drilled in the visualization based off of the data, perplexed at some deceptively obvious characteristics of the graph, such as the nodes’ size and the connections, and their relationships. Once I tackled these puzzles, I got an entirely new understanding of the graph, which interestingly led to more research questions that can be asked of the graph below.
+
+![](http://blogs.ubc.ca/szhang/files/2018/08/palladio-animated.gif) 

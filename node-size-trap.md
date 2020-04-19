@@ -28,7 +28,7 @@ To illustrate this point, let’s look at these two graphs below.
 
 This is a street tree map for a few blocks in Vancouver, on which each dot is a tree (aligning with the individual rows/records in the raw data), with the color shade responding to the tree’s height and the size to diameter. 
 
-![stree tree map](https://github.com/saharazh/Palladio-Networking/blob/master/images/street%20trees.png)
+![stree tree map](//images/street%20trees.png)
 
 ![trees](https://user-images.githubusercontent.com/40467487/79677917-ca7f8680-81aa-11ea-92d6-490be3c43ea0.png)
 

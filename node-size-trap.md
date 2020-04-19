@@ -31,18 +31,18 @@ This is a street tree map for a few blocks in Vancouver, on which each dot is a 
 ![trees](https://user-images.githubusercontent.com/40467487/79677917-ca7f8680-81aa-11ea-92d6-490be3c43ea0.png)
 
 
-By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). https://blogs.ubc.ca/szhang/wp-admin/upload.php?item=269
+By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). 
 
 ![node in network](https://user-images.githubusercontent.com/40467487/79700374-04539a00-824a-11ea-9c9c-a7280b27f4ef.png)
 
 ### What caused the confusion in the first place?
 Now I believe we’ve gained ultimate clarity about the node size. But I wonder what caused my confusion in the first place. If we get back to the fact that in Network analysis tools, the weighted node size will typically default to represent the number of entities of the attribute, why did I miss that?  I went back to check the “Size Node” button- beneath it is the “According to” option, which says “Number of Untitled”. Okay, this term sounds really confusing, but maybe it’s because I didn’t name the data table (not the project name)?
 
-![number by untitled](https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20untitled.png)
+![number by untitled](https://user-images.githubusercontent.com/40467487/79700760-f5221b80-824c-11ea-8213-7adb615c1bba.png)
 
 
 So I went ahead and named the untitled data table to “Chinese Immigrants” which reflects the nature of the records, downloaded the project as a .json file and reuploaded the project- it worked!  I guess this can somewhat help understanding of what the node size implies. 
 
-![number by table name](https://github.com/saharazh/Palladio-Networking/blob/master/images/number%20of%20chinese%20immigrants.png)
+![number by table name](https://user-images.githubusercontent.com/40467487/79700774-15ea7100-824d-11ea-9cdf-b9a86fcd9d70.png)
 
 

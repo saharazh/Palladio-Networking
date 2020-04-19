@@ -30,6 +30,9 @@ This is a street tree map for a few blocks in Vancouver, on which each dot is a 
 
 ![stree tree map](https://github.com/saharazh/Palladio-Networking/blob/master/images/street%20trees.png)
 
+![trees](https://user-images.githubusercontent.com/40467487/79677917-ca7f8680-81aa-11ea-92d6-490be3c43ea0.png)
+
+
 By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). https://blogs.ubc.ca/szhang/wp-admin/upload.php?item=269
 
 ![node in network](https://github.com/saharazh/Palladio-Networking/blob/master/images/nodes%20in%20network.png)

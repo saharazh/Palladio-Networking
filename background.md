@@ -15,3 +15,4 @@ In the spreadsheet, each row corresponds to an immigrant. Variables (columns) in
 
 There was a critical issue with the data though: they were captured in idiosyncratic dialects of the immigrants and resulted in English variations of place names and titles. The inconsistencies, thanks to a project spearheaded by UBC Asian Library, were partly corrected: all the county names and a large portion of village names were normalized. 
 
+Since the whole dataset has over 90,000 records, I filtered the data to one county, Zhongshan, in order to avoid making the visualization overcrowded or illegible. You can [download the filtered the dataset of Zhongshan](https://osf.io/epkh3/) for the following steps.

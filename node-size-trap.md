@@ -21,9 +21,14 @@ Now let's put a spotlight on Destination 3: it is only connected to one village 
 
 Let’s first take a destination node as an example to see how we can apply the equation: n= how many villages the destination is connected to (how many lines a destination is connected to) Ai= the number of immigrants each village sent So what this equation computes is the sum of the immigrants that each village sent which is connected to this destination. Now it’s clear that a node size equals the total number of immigrants that the corresponding destination received, or if we speak in the statistical language, the node size corresponds to the **frequency** of this destination! I find it fascinating to build a mental linkage between the network visualization and the statistics based off on the same data. 
 
+### Node degree and weighted degree
+Now let’s link what we’ve learnt so far with network theories. **Degree** is an important concept in network theories- **node degree** is simply how many edges it’s connected to. It is important, however, to understand that **node size** , in my case, is not calculated based on node degree, but rather, **weighted degree**, since the graph I created is a weighted graph- meaning each village often sends more than one immigrant. 
+
 ### Compare mapping geographic points with nodes
-To this point, if you have used Gephi or another network analysis tool, you may find it ridiculous to go through all the trouble of playing with dumb numbers just to find the meaning of the node size- it may have been clear to you all along. For a beginner to network analysis, however, this may not be true. I’ll admit that I jumped into using Palladio without knowing much about network analysis theories. And later I realized that unlike mapping a point that comes with coordinates, you can choose to visualize a node by **any attribute**. And usually in network analysis, the weighted node size will default to represent the number of entities of the attribute.  In other words, while a point on a map and a node in a network appear to be the same (why, they are all just dots!), they are in fact rather different in terms of what a point represents.
- 
+I’m alway fascinated with connecting concepts from different domains. And as a result of this habit, I was wondering about what exactly sets a point on a map apart from a node in a network (why, they all just appear to be dots!).  The differences include these at least:
+A point on a map is located geospatially- by coordinates. By contrast, a node on a network is located by its centrality. 
+Similarly, either a point on a map or a node on a network can be sized by a numeric attribute. But, it’s more common to size a node by degree (or in my case, weighted degree) than by an attribute. 
+
 To illustrate this point, let’s look at these two graphs below. 
 
 This is a street tree map for a few blocks in Vancouver, on which each dot is a tree (aligning with the individual rows/records in the raw data), with the color shade responding to the tree’s height and the size to diameter. 
@@ -31,19 +36,11 @@ This is a street tree map for a few blocks in Vancouver, on which each dot is a 
 ![trees](https://user-images.githubusercontent.com/40467487/79677917-ca7f8680-81aa-11ea-92d6-490be3c43ea0.png)
 
 
-By comparison, for the graph spit out by Palladio, each dot is a village or a destination (which does not align with the individual rows in the raw data), with the color shade (not continuous in this case, but discrete) differentiating source and target, and the size meaning the frequency of the values for two attributes (origin of village, and destination). 
+By comparison, for the graph spit out by Palladio, each node is a village or a destination, the node size meaning weighted degree.
 
 ![node in network](https://user-images.githubusercontent.com/40467487/79700374-04539a00-824a-11ea-9c9c-a7280b27f4ef.png)
 
 
-### What caused the confusion in the first place?
-Now I believe we’ve gained ultimate clarity about the node size. But I wonder what caused my confusion in the first place. If we get back to the fact that in Network analysis tools, the weighted node size will typically default to represent the number of entities of the attribute, why did I miss that?  I went back to check the “Size Node” button- beneath it is the “According to” option, which says “Number of Untitled”. Okay, this term sounds really confusing, but maybe it’s because I didn’t name the data table (not the project name)?
 
-![number by untitled](https://user-images.githubusercontent.com/40467487/79700760-f5221b80-824c-11ea-8213-7adb615c1bba.png)
-
-
-So I went ahead and named the untitled data table to “Chinese Immigrants” which reflects the nature of the records, downloaded the project as a .json file and reuploaded the project- it worked!  I guess this can somewhat help understanding of what the node size implies. 
-
-![number by table name](https://user-images.githubusercontent.com/40467487/79700774-15ea7100-824d-11ea-9cdf-b9a86fcd9d70.png)
 
 

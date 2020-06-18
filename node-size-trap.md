@@ -27,9 +27,9 @@ Now let’s link what we’ve learnt so far with network theories. **Degree** is
 ### Compare mapping geographic points with nodes
 I’m alway fascinated with connecting concepts from different domains. And as a result of this habit, I was wondering about what exactly sets a point on a map apart from a node in a network (why, they all just appear to be dots!). The differences include these at least:
 
-A point on a map is located geospatially- by coordinates. By contrast, a node on a network is located by its centrality. 
+* A point on a map is located geospatially- by coordinates. By contrast, a node on a network is located by its centrality. 
 
-Similarly, either a point on a map or a node on a network can be sized by a numeric attribute. But, it’s more common to size a node by degree (or in my case, weighted degree) than by an attribute. 
+* Similarly, either a point on a map or a node on a network can be sized by a numeric attribute. But, it’s more common to size a node by degree (or in my case, weighted degree) than by an attribute. 
 
 To illustrate these points, let’s look at these two graphs below. 
 

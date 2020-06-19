@@ -8,9 +8,9 @@ nav_order: 5
 
 Now that the meaning of node size is sorted out, if we take a step back, we’ll be able to take a bird-view of the graph; it tells us very rich information on a few aspects, all at one glance: 
 
-1) which village(s) is linked to which destination(s)
+1) The **edges** indicate which village(s) is linked to which destination(s)
 
-2) the frequencies of each village and destination
+2) Node size (**weighted degree**) indicate the frequencies of each village and destination 
 
 3) Combining the above two, the constellations of villages emerged showing similar migration patterns in terms of where the immigrants went. For example, the villages that sent immigrants to both Vancouver and Victoria are situated in the middle, whereas the villages connecting to a wider range of destinations are placed in the peripheral areas. 
 

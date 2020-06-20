@@ -27,6 +27,7 @@ Now let’s link what we’ve learnt so far with network theories. **Degree** is
 ### Compare sizing geographic points with sizing nodes
 I’m alway fascinated with connecting concepts from different domains. And as a result of this habit, I was wondering about what exactly sizing a point on a map apart from a sizing node in a network (why, they all just appear to be dots!). Here's the conclustion I came to:
 
+
 Either a point on a map or a node on a network can be sized by a numeric attribute. It’s more common, however, to size a node by degree (or in my case, weighted degree) than by an attribute. 
 
 To illustrate these points, let’s look at these two graphs below. 

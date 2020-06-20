@@ -24,12 +24,9 @@ Let’s first take a destination node as an example to see how we can apply the 
 ### Node degree and weighted degree
 Now let’s link what we’ve learnt so far with network theories. **Degree** is an important concept in network theories- **node degree** is simply how many edges it’s connected to. With Palladio or Gephi (a popular network analysis tool), you can choose to size your nodes by degree or another numeric attribute (in Palladio, it’s not called degree, but just number of …). It is important, however, to understand that **node size** , in my case, is not calculated based on node degree, but rather, **weighted degree**, since the graph I created is a weighted graph- meaning each village often sends more than one immigrant. 
 
-### Compare mapping geographic points with nodes
-I’m alway fascinated with connecting concepts from different domains. And as a result of this habit, I was wondering about what exactly sets a point on a map apart from a node in a network (why, they all just appear to be dots!). The differences include these at least:
-
-* A point on a map is located geospatially- by coordinates. By contrast, a node on a network is located by its centrality. 
-
-* Similarly, either a point on a map or a node on a network can be sized by a numeric attribute. But, it’s more common to size a node by degree (or in my case, weighted degree) than by an attribute. 
+### Compare sizing geographic points with sizing nodes
+I’m alway fascinated with connecting concepts from different domains. And as a result of this habit, I was wondering about what exactly sizing a point on a map apart from a sizing node in a network (why, they all just appear to be dots!). Here's the conclustion I came to:
+Either a point on a map or a node on a network can be sized by a numeric attribute. It’s more common, however, to size a node by degree (or in my case, weighted degree) than by an attribute. 
 
 To illustrate these points, let’s look at these two graphs below. 
 

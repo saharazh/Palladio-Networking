@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-### By Sarah Zhang 
+# By Sarah Zhang 
 
 ## Introduction
 

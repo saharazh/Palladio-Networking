@@ -14,7 +14,7 @@ Admittedly, if you are a network analysis guru, this post may seem too rambling,
  
 Also, I hope contextualizing the exploration of Palladio within an intellectual inquiry to the historical migration patterns--what drove the inquiry and what emerged from the data as a result of the deep engagement of the visualization- would be inspiring.  And lastly, it’s my earnest hope to raise awareness around the Chinese Head Tax data as well as that history of discrimination and exclusion, at this unprecedented time (note: this site was launched during the COVID-19 pandemic of 2020). 
 
-You can reach me at saharazh@gmail.com. 
+I'd love to hear your feedback! You can find me on Twitter @saharazh. 
  
 
 ## More Resources

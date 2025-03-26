@@ -28,7 +28,7 @@ To that end, I followed a few steps to produce a networkshop visualization using
 &nbsp;&nbsp;&nbsp;&nbsp;8.Check the box “Size nodes”
 
 And boom! We’ve got the visualization: 
-![](http://blogs.ubc.ca/szhang/files/2018/08/palladio-animated.gif) 
+
 
 An initial interpretation of the graph: 
 

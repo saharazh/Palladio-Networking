@@ -28,7 +28,7 @@ To that end, I followed a few steps to produce a networkshop visualization using
 &nbsp;&nbsp;&nbsp;&nbsp;8.Check the box “Size nodes”
 
 And boom! We’ve got the visualization: 
-!(https://github.com/saharazh/Palladio-Networking/blob/master/images/palladio-animated.gif) 
+![network visualization](https://github.com/saharazh/Palladio-Networking/blob/master/images/palladio-animated.gif) 
 
 An initial interpretation of the graph: 
 

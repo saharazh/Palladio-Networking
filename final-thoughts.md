@@ -6,16 +6,13 @@ nav_order: 6
 
 ## Final thoughts 
  
-Given a very low bar to learning Palladio, it would be a perfect tool to give it a try and possibly enter the sphere of network analysis. However, there are lurking risks beneath rashly diving into the water, harvesting a fantastic-looking visualization without critically thinking about the rationale behind the tool. As Emmanuelle Chaze elaborated on her blog, she witnessed many researchers were motivated by this recurring impulsion “I have my data, but I’m no IT specialist, how can I quickly visualize my networks?”, but many humanists willing to use digital tools remain reluctant to learn about their proper use first.
- 
-During my journey of exploring Palladio, I had a revelation that it’s dangerous to feed my data into the machine and wait for it to spit out a beautiful-looking graph. It’s like a “black box”. And it is risky to blindly trust a black box. If we don’t understand what algorithm it uses, we won’t be able to correctly interpret the results. Hence I focused on a seeming no-brainer question-what a node size represents-and from there dig in this question and uncover its underlying algorithm.
- 
-Admittedly, if you are a network analysis guru, this post may seem too rambling, but I guess my target audience would be beginners to network analysis and I encourage you to think critically along the way.  
- 
-Also, I hope contextualizing the exploration of Palladio within an intellectual inquiry to the historical migration patterns--what drove the inquiry and what emerged from the data as a result of the deep engagement of the visualization- would be inspiring.  And lastly, it’s my earnest hope to raise awareness around the Chinese Head Tax data as well as that history of discrimination and exclusion, at this unprecedented time (note: this site was launched during the COVID-19 pandemic of 2020). 
+Given the very low bar to learning Palladio, it would be a perfect tool to try and possibly enter the sphere of network analysis. However, there are lurking risks beneath rashly diving into the water, harvesting a fantastic-looking visualization without critically thinking about the rationale behind the tool. As Emmanuelle Chaze elaborated on her blog, she witnessed many researchers being motivated by the recurring impulse: “I have my data, but I’m no IT specialist—how can I quickly visualize my networks?” But many humanists willing to use digital tools remain reluctant to first learn about their proper use.
 
-I'd love to hear your feedback! You can find me on Twitter @saharazh. 
- 
+During my journey of exploring Palladio, I had a revelation: it’s dangerous to feed my data into the machine and wait for it to spit out a beautiful-looking graph. It’s like a “black box,” and it is risky to blindly trust a black box. If we don’t understand what algorithm it uses, we won’t be able to correctly interpret the results. Hence, I focused on a seemingly no-brainer question—what does a node size represent?—and from there, dug into this question to uncover its underlying algorithm.
+
+Admittedly, if you are a network analysis guru, this post may seem too rambling, but I guess my target audience would be beginners to network analysis, and I encourage you to think critically along the way.
+
+Also, I hope contextualizing the exploration of Palladio within an intellectual inquiry into historical migration patterns—what drove the inquiry and what emerged from the data as a result of deep engagement with the visualization—will be inspiring. And lastly, it’s my earnest hope to raise awareness about the Chinese Head Tax data, as well as the history of discrimination and exclusion, at this unprecedented time (note: this site was launched during the COVID-19 pandemic of 2020).
 
 ## More Resources
 

@@ -11,7 +11,7 @@ nav_order: 4
 The first thing to notice here on this graph is the nodes’ size. Vancouver and Victoria loom to be the most prominent destinations. Hmm.. let’s pause for a second here, do you think that’s because Vancouver and Victoria are connected to the largest number of villages, as the graph seemingly suggests? In other words, do you think the node size corresponds only to how many lines it connects to? To find the answer, let’s see how we can simplify our data. So below is an extremely simplified spreadsheet with only 4 rows of hypothetical records. Note that each row represents an immigrant. In the original dataset, there are many other variables about the immigrants' demographic information such as age, arrival year, and height, but for the sake of clarify only the two variables-the origin (village code) and destination are retained. <br /> 
 
 
-![simplified data](images/simplified-data.jpg) 
+![simplified data](images/simplified data.jpg) 
 
 After feeding it to Palladio (put village code as Source, and destination as Target), here is the visualization Palladio spit out: <br /> 
 ![simplified data vis](https://github.com/saharazh/Palladio-Networking/blob/37df7b503f58459d8fe57b82325f08efa077ae78/images/simplified%20Palladio%20vis.jpg)

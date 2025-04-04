@@ -18,7 +18,7 @@ After feeding it to Palladio (put village code as Source, and destination as Tar
 
 
 Now let's put a spotlight on Destination 3: it is only connected to one village (237), then how come its size is larger than that of Destination 1 and 2? Well, it turns out, a node size is related to how many lines it connects to, but this is not the whole picture. In fact, a node size is also tied to another factor: how many immigrants a village sent. We can write an equation like this: <br /> 
-![equation](https://github.com/saharazh/Palladio-Networking/blob/6c77a5b357238d1c3cc70a36c633f9f07585aa94/images/equation.jpg)
+![equation](images/equation.jpg)
 
 
 Let’s first take a destination node as an example to see how we can apply the equation: n= how many villages the destination is connected to (how many lines a destination is connected to) Ai= the number of immigrants each village sent So what this equation computes is the sum of the immigrants that each village sent which is connected to this destination. Now it’s clear that a node size equals the total number of immigrants that the corresponding destination received, or if we speak in the statistical language, the node size corresponds to the **frequency** of this destination! I find it fascinating to build a mental linkage between the network visualization and the statistics based off on the same data. 

@@ -14,7 +14,7 @@ The first thing to notice here on this graph is the nodes’ size. Vancouver and
 ![simplified data](images/simplified data.jpg) 
 
 After feeding it to Palladio (put village code as Source, and destination as Target), here is the visualization Palladio spit out: <br /> 
-![simplified data vis](https://github.com/saharazh/Palladio-Networking/blob/37df7b503f58459d8fe57b82325f08efa077ae78/images/simplified%20Palladio%20vis.jpg)
+![simplified data vis](images/simplified Palladio vis.jpg)
 
 
 Now let's put a spotlight on Destination 3: it is only connected to one village (237), then how come its size is larger than that of Destination 1 and 2? Well, it turns out, a node size is related to how many lines it connects to, but this is not the whole picture. In fact, a node size is also tied to another factor: how many immigrants a village sent. We can write an equation like this: <br /> 

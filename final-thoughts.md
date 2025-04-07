@@ -15,10 +15,17 @@ Admittedly, if you are a network analysis guru, this post may seem too rambling,
 Also, I hope contextualizing the exploration of Palladio within an intellectual inquiry into historical migration patterns—what drove the inquiry and what emerged from the data as a result of deep engagement with the visualization—will be inspiring. And lastly, it’s my earnest hope to raise awareness about the Chinese Head Tax data, as well as the history of discrimination and exclusion, at this unprecedented time (note: this site was launched during the COVID-19 pandemic of 2020).
 
 ## More Resources
+### Research output 
 
 Should you be interested in other work my colleague Allan Cho and I did for this Chinese Head Tax project, I invite you to take a look at the OSF project and the book chapter below: 
 <br>[Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949](https://osf.io/9zr6f/)
 <br>Cho, A., & Zhang, S. (2023). A Legacy of Race and Data: Mining the History of Exclusion. *Future Horizons: Canadian Digital Humanities*. University of Ottawa Press. doi.org/10.1515/9780776640068-023   
+
+### Data
+[Register of Chinese Immigrants to Canada, 1886-1949](https://open.library.ubc.ca/cIRcle/collections/facultyresearchandpublications/52383/items/1.0075988)
+[Library and Archives Canada: Immigrants from China, 1885-1952](https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/immigration/pages/immigrants-from-china-1885-1952.aspx)
+
+### Network Visualization/Analysis
 
 [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical ](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)
 by Marten Düring on Programming Historian, which focused on extracting “network-like” data from textual sources 

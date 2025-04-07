@@ -17,7 +17,7 @@ Also, I hope contextualizing the exploration of Palladio within an intellectual 
 ## More Resources
 
 Should you be interested in other work my colleague Allan Cho and I did for this Chinese Head Tax project, I invite you to take a look at the OSF project and the book chapter below: 
-[Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949](https://osf.io/9zr6f/)
+<br>[Hacking the Historical Data: Register of Chinese Immigrants to Canada, 1886-1949](https://osf.io/9zr6f/)
 <br>Cho, A., & Zhang, S. (2023). A Legacy of Race and Data: Mining the History of Exclusion. *Future Horizons: Canadian Digital Humanities*. doi.org/10.1515/9780776640068-023   
 
 [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical ](https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)

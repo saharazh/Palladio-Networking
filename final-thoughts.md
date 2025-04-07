@@ -23,7 +23,7 @@ Should you be interested in other work my colleague Allan Cho and I did for this
 
 ### Data
 [Register of Chinese Immigrants to Canada, 1886-1949](https://open.library.ubc.ca/cIRcle/collections/facultyresearchandpublications/52383/items/1.0075988)
-[Library and Archives Canada: Immigrants from China, 1885-1952](https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/immigration/pages/immigrants-from-china-1885-1952.aspx)
+<br>[Library and Archives Canada: Immigrants from China, 1885-1952](https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/immigration/pages/immigrants-from-china-1885-1952.aspx)
 
 ### Network Visualization/Analysis
 

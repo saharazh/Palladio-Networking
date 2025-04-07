@@ -10,7 +10,7 @@ nav_order: 1
 ## Introduction
 
 
-I used [Palladio](http://hdlab.stanford.edu/palladio/), a tool for exploring humanities data, to examine the migration patterns hidden in the Chinese Head Tax Data, which dates back over a century. The exploration was driven by this inquiry: What new possibilities for the study of early Chinese immigrants to Canada could this dataset offer if new DH tools were employed?
+I used [Palladio](http://hdlab.stanford.edu/palladio/), a tool for exploring humanities data, to examine the migration patterns hidden in the [Chinese Head Tax Data](https://library-archives.canada.ca/eng/collection/research-help/genealogy-family-history/immigration/pages/immigrants-from-china-1885-1952.aspx), which dates back over a century. The exploration was driven by this inquiry: What new possibilities for the study of early Chinese immigrants to Canada could this dataset offer if new DH tools were employed?
 
 Well, it turned out there’s a hidden goldmine that hasn’t been discovered!
 
